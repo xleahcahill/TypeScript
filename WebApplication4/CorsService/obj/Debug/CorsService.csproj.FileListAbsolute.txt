@@ -1,0 +1,99 @@
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\ApplicationInsights.config
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\CorsService.dll.config
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\CorsService.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\CorsService.pdb
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.Web.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.Web.xml
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\obj\Debug\CorsService.dll
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\obj\Debug\CorsService.pdb
+C:\Users\p140092\documents\visual studio 2015\Projects\WebApplication4\CorsService\obj\Debug\CorsService.csprojResolveAssemblyReference.cache
+E:\third year\WebApplication4\CorsService\obj\Debug\CorsService.csprojResolveAssemblyReference.cache
+E:\third year\WebApplication4\CorsService\obj\Debug\CorsService.csproj.CoreCompileInputs.cache
+E:\third year\WebApplication4\CorsService\obj\Debug\CorsService.dll
+E:\third year\WebApplication4\CorsService\obj\Debug\CorsService.pdb
+E:\third year\WebApplication4\CorsService\bin\ApplicationInsights.config
+E:\third year\WebApplication4\CorsService\bin\CorsService.dll.config
+E:\third year\WebApplication4\CorsService\bin\CorsService.dll
+E:\third year\WebApplication4\CorsService\bin\CorsService.pdb
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.Agent.Intercept.dll
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.dll
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.Web.dll
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.dll
+E:\third year\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.dll
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.xml
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.Web.xml
+E:\third year\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.xml
+E:\third year\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.xml
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\ApplicationInsights.config
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.dll.config
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.pdb
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Agent.Intercept.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Web.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.xml
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Web.xml
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.xml
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.xml
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.csprojResolveAssemblyReference.cache
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.csproj.CoreCompileInputs.cache
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.dll
+E:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.pdb
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\ApplicationInsights.config
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.dll.config
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.pdb
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Web.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.xml
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Web.xml
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.xml
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.xml
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.csprojResolveAssemblyReference.cache
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.dll
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.pdb
+D:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.csproj.CoreCompileInputs.cache
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\ApplicationInsights.config
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.dll.config
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\CorsService.pdb
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Agent.Intercept.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Web.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.DependencyCollector.xml
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.Web.xml
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.AI.WindowsServer.xml
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\bin\Microsoft.ApplicationInsights.xml
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.csprojResolveAssemblyReference.cache
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.csproj.CoreCompileInputs.cache
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.dll
+F:\third year\Emerging technology\Assignmentone\WebApplication4\CorsService\obj\Debug\CorsService.pdb

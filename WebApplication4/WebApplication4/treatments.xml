@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HF>
+  <treatments>
+    <name>General Check Up</name>
+    <description> - - </description>
+    <price> £9. </price>
+    <doctor>
+      Dr Andrews.
+    </doctor>
+    <pagenum>
+    1 of 4
+    </pagenum>
+  </treatments>
+  <treatments>
+    <name>Bridges</name>
+    <description> Fixing and replacing a missing tooth.</description>
+    <price> From £39. </price>
+    <doctor>
+      Dr L Jones.
+    </doctor>
+    <pagenum>
+    2 of 4
+    </pagenum>
+  </treatments>
+  <treatments>
+    <name>Crowns</name>
+    <description> A crown is a cap that covers a tooth, usually when a tooth is broken, it is covered by a crown.</description>
+    <price> From £50. </price>
+    <doctor>
+      Dr Andrews.
+    </doctor>
+    <pagenum>
+    3 of 4
+    </pagenum>
+  </treatments>
+  <treatments>
+    <name>Fillings</name>
+    <description> Repairs holes in teeth cause by decay. </description>
+    <price> From £19 </price>
+    <doctor>
+      Dr Andrews.
+    </doctor>
+    <pagenum>
+     4 of 4
+    </pagenum>
+  </treatments>
+</HF>

@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1> Dental Surgery </h1>
+    <section id="two">
+        <form id="form1">
+            <h1> Want to know anymore information?</h1>
+
+            <p>
+                Send us a message if you would like to know any more information on the dental practice.
+                <br /> just type in the box below and hit Send!
+            </p>
+            <input id="msgTextBox" type="text" />
+            <input id="sendMsgButton" value="Send Message" type="button" />
+            <br /><br /><br />
+
+
+            <div class="inset">
+                <p>Want to read back what you just sent? Hit the Read Message button.</p><input id="readMsgButton" value="Read Message" type="button" />
+                <p>Message: </p><p id="msg"></p>
+            </div>
+            <br />
+            <div class="inset">
+                <p> Changed your mind?</p><input id="deleteMsgButton" value="Remove Message" type="button" />
+                <br />
+            </div>
+            <br /><br />
+            <div class="inset">
+                <p>Want to change your message?</p>
+                <lable>New Message:</lable> <input id="msgTextBox2" type="text" /><br /><br />
+               <lable>Message ID:</lable><input id="msgIdTextBox" type="text" /><br /><br />
+                <input id="simpleModifyMsgButton" value="Modify Message" type="button" />
+                <p id="msg2"></p>
+                <br /><br />
+            </div>
+        </form>
+
+
+    </section>
+
+
+    <section id="three">
+        <h2>Treatments at our dental practice</h2>
+        <p> Contact ACMAdministration@hotmail.com to book an apointment.</p>
+        <div id="showT"></div><br />
+        <input type="button" onclick="back()" value="Previous" />
+        <input type="button" onclick="forward()" value="Next" />
+
+    </section>
+
+    <section id="one">
+        <form id="form2">
+            <input id="Button1" type="button" value="Click to check updates" />
+            <div id="loadedText"><p></p></div>
+        </form>
+    </section>
+
+    <section id="three">
+        <h1>For us to get in touch with you..</h1>
+        <p>Leave your name and we will get in touch.</p>
+        <input id="nameTextBox" type="text" /><!--<input id="nameIdTextBox" type="text" />-->
+        <input id="sendnameButton" value="Send name" type="button" />
+        <br /><br />
+        <div class="inset1">
+            <input id="readnameButton" value="Display name entry" type="button" /> <input id="deletenameButton" value="Remove name?" type="button" />
+            <p>Thank you: </p><p id="namep"></p>
+            <br /><br /><br />
+        </div>
+
+    </section>
+
+
+    <script src="scripts/jquery-3.3.1.js"></script>
+    <script src="myService.js"></script>
+    <script src="myService22.js"></script>
+
+    <script src="views.js"></script>
+    <script src="form2.js"></script>
+</body>
+</html>
